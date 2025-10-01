@@ -41,10 +41,10 @@ body {font-family: Arial, sans-serif; color:#333; line-height:1.6;}
 .about-me h2 {margin:10px 0; color:#c18f59;}
 .about-text {max-width:500px; margin-left:20px;}
 
-.books {padding:50px 0; text-align:center;}
-.book-list {display:flex; flex-wrap:wrap; justify-content:space-around;}
-.book {margin:10px; max-width:200px;}
-.book img {width:100%; border:1px solid #ddd;}
-.book h4 {margin:10px 0 5px;}
-.book span {color:#c18f59; font-weight:bold;}
+.projects {padding:50px 0; text-align:center;}
+.project-list {display:flex; flex-wrap:wrap; justify-content:space-around;}
+.project {margin:10px; max-width:200px;}
+.project img {width:100%; border:1px solid #ddd;}
+.project h4 {margin:10px 0 5px;}
+.project span {color:#c18f59; font-weight:bold;}
 
