@@ -15,8 +15,7 @@ body {font-family: Arial, sans-serif; color:#333; line-height:1.6;}
     background:#222; 
     color:#fff;
     position: relative;
-    display: flex;
-    align-items: flex-end;
+    
     background-image: url("../images/top-banner-bckg.jpg");
     background-position: center;
     background-size: cover;}
